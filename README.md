@@ -9,7 +9,7 @@
 
 [![JavaScript](https://img.shields.io/badge/-JavaScript-black?style=flat-square&logo=javascript&link=https://github.com/hasan-bilgen/)](https://github.com/hasan-bilgen/)
 [![TypeScript](https://img.shields.io/badge/-TypeScript-FFFFFF?style=flat-square&logo=typescript&link=https://github.com/hasan-bilgen/)](https://github.com/hasan-bilgen/)
-[![Python](https://img.shields.io/badge/python-FFD700?style=flat-square&logo=python&link=https://github.com/hasan-bilgen/)](https://github.com/hasan-bilgen/)
+[![Python](https://img.shields.io/badge/Python-FFD700?style=flat-square&logo=python&link=https://github.com/hasan-bilgen/)](https://github.com/hasan-bilgen/)
 [![C](https://img.shields.io/badge/-A8B9CC?style=flat-square&logo=c&logoColor=white&link=https://github.com/hasan-bilgen/)](https://github.com/hasan-bilgen/)
 
 [![HTML5](https://img.shields.io/badge/-HTML5-E34F26?style=flat-square&logo=html5&logoColor=white&link=https://github.com/hasan-bilgen/)](https://github.com/hasan-bilgen/)
