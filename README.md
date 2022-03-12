@@ -30,6 +30,6 @@
 
 ---
 
-[![Hasan's top languages](https://github-readme-stats.vercel.app/api/top-langs/?username=hasan-bilgen&theme=blue-green)](https://github.com/anuraghazra/github-readme-stats)
+[![Hasan's top languages](https://github-readme-stats.vercel.app/api/top-langs/?username=hasan-bilgen&theme=blue-green)](https://github.com/https://github.com/hasan-bilgen/github-readme-stats)
 
 ⭐️ From [hasan-bilgen](https://github.com/hasan-bilgen)
