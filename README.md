@@ -5,7 +5,7 @@
 [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/hasan-bilgen/)](https://www.linkedin.com/in/hasan-bilgen/)
 [![Gmail Badge](https://img.shields.io/badge/-Gmail-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:hasanbilgen01@gmail.com)](mailto:hasanbilgen01@gmail.com)
 
-## Conhecimentos / Knowledges
+## Knowledges / Tecrübeler
 
 [![JavaScript](https://img.shields.io/badge/-JavaScript-black?style=flat-square&logo=javascript&link=https://github.com/hasan-bilgen/)](https://github.com/hasan-bilgen/)
 [![TypeScript](https://img.shields.io/badge/-TypeScript-FFFFFF?style=flat-square&logo=typescript&link=https://github.com/hasan-bilgen/)](https://github.com/hasan-bilgen/)
