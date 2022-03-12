@@ -16,6 +16,8 @@
 [![CSS3](https://img.shields.io/badge/-CSS3-1572B6?style=flat-square&logo=css3&link=https://github.com/hasan-bilgen/)](https://github.com/hasan-bilgen/)
 [![Bootstrap](https://img.shields.io/badge/-Bootstrap-563D7C?style=flat-square&logo=bootstrap&link=https://github.com/hasan-bilgen/)](https://github.com/hasan-bilgen/)
 [![React](https://img.shields.io/badge/-React-black?style=flat-square&logo=react&link=https://github.com/hasan-bilgen/)](https://github.com/hasan-bilgen/)
+[![ReactNative](https://img.shields.io/badge/-React_Native-black?style=flat-square&logo=react&link=https://github.com/hasan-bilgen/)](https://github.com/hasan-bilgen/)
+
 
 [![Nodejs](https://img.shields.io/badge/-Nodejs-black?style=flat-square&logo=Node.js&link=https://github.com/hasan-bilgen/)](https://github.com/hasan-bilgen/)
 [![MongoDB](https://img.shields.io/badge/-MongoDB-black?style=flat-square&logo=mongodb&link=https://github.com/hasan-bilgen/)](https://github.com/hasan-bilgen/)
@@ -31,5 +33,3 @@
 ---
 
 [![Hasan's top languages](https://github-readme-stats.vercel.app/api/top-langs/?username=hasan-bilgen&theme=blue-green)](https://github.com/hasan-bilgen/)
-
-⭐️ From [hasan-bilgen](https://github.com/hasan-bilgen)
