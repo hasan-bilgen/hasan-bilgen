@@ -12,7 +12,7 @@
 [![Python](https://img.shields.io/badge/Python-FFD700?style=flat-square&logo=python&link=https://github.com/hasan-bilgen/)](https://github.com/hasan-bilgen/)
 [![C](https://img.shields.io/badge/-A8B9CC?style=flat-square&logo=c&logoColor=white&link=https://github.com/hasan-bilgen/)](https://github.com/hasan-bilgen/)
 
-[![HTML](https://img.shields.io/badge/-HTML-E34F26?style=flat-square&logo=html&logoColor=white&link=https://github.com/hasan-bilgen/)](https://github.com/hasan-bilgen/)
+[![HTML](https://img.shields.io/badge/-HTML-E34F26?style=flat-square&logo=html5&logoColor=white&link=https://github.com/hasan-bilgen/)](https://github.com/hasan-bilgen/)
 [![CSS](https://img.shields.io/badge/-CSS-1572B6?style=flat-square&logo=css3&link=https://github.com/hasan-bilgen/)](https://github.com/hasan-bilgen/)
 [![Bootstrap](https://img.shields.io/badge/-Bootstrap-563D7C?style=flat-square&logo=bootstrap&link=https://github.com/hasan-bilgen/)](https://github.com/hasan-bilgen/)
 [![React](https://img.shields.io/badge/-React-black?style=flat-square&logo=react&link=https://github.com/hasan-bilgen/)](https://github.com/hasan-bilgen/)
