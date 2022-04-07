@@ -21,7 +21,7 @@
 
 [![Nodejs](https://img.shields.io/badge/-Nodejs-black?style=flat-square&logo=Node.js&link=https://github.com/hasan-bilgen/)](https://github.com/hasan-bilgen/)
 [![MongoDB](https://img.shields.io/badge/-MongoDB-black?style=flat-square&logo=mongodb&link=https://github.com/hasan-bilgen/)](https://github.com/hasan-bilgen/)
-[![MySQL](https://img.shields.io/badge/-MySQL-black?style=flat-square&logo=mysql&link=https://github.com/hasan-bilgen/)](https://github.com/hasan-bilgen/)
+[![MySQL](https://img.shields.io/badge/-MySQL-f0f0f0?style=flat-square&logo=mysql&link=https://github.com/hasan-bilgen/)](https://github.com/hasan-bilgen/)
 
 [![GitHub](https://img.shields.io/badge/-GitHub-181717?style=flat-square&logo=github&link=https://github.com/hasan-bilgen/)](https://github.com/hasan-bilgen/)
 
